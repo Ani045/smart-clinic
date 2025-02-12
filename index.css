@@ -459,7 +459,8 @@ html {
 }
 
 .stats {
-  background-color: rgba(60, 152, 188, 0.1);
+  /* background-color: rgba(60, 152, 188, 0.1); */
+  background-color:#ffffff;
   padding-left: 1rem;
   padding-right: 1rem;
   border-radius: 8px;
